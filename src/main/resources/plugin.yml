@@ -1,0 +1,4 @@
+name: BungeeMsgFilter
+main: io.spritsail.bungee.msgfilter.MsgFilter
+version: 1.0
+author: frebib
