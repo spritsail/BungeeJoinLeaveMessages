@@ -1,0 +1,11 @@
+messages:
+  enabled: true
+  silentPermission: bjm.silentjoin
+  login: '&e%s joined the network.'
+  logout: '&e%s left the network.'
+  firstLogin: '&e%s joined the network for the first time!'
+switchMessages:
+  enabled: true
+  silentPermission: bjm.silentswitch
+  disconnect: "&e%s switched servers."
+  connect: "&e%s joined the server."
